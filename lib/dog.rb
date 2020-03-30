@@ -9,8 +9,8 @@ class Dog
   end
 
   # Class methods
-  def self.all 
+  def self.all
     @@all
   end
-  
+
 end
